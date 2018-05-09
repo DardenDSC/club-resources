@@ -1,0 +1,13 @@
+﻿Word,Definition
+Streaming Data,"Data that is analyzed while it is being captured, typically because it is too volumous to wait to analyze. This is in contrast to ""batching data"" where the data is collected for a period of time and then processed."
+Confusion Matrix,Usually a two-by-two matrix showing the actual data vs. the predicted data. The confusion matrix is the first step in understanding the accuracy of a classification model.
+Boosted Tree,"A popular type of decision tree that iteratively trains data, determines its worst mistakes, and weighs them to get those correct. The process repeats itself until the prediction performance levels off (no more gains)."
+Feature Engineering,The process of creating transformations or derivations of existing data that can be used to create a better machine learning model.
+Logistic Regression,A popular type of linear regression commonly used for binary classification tasks (yes/no classification). It uses a mathematical trick to force the predicted regression values into a Yes/No prediction.
+Deep Learning,A domain of machine learning that focuses on building neural networks from very large datasets. These become so complex and take so long to compute that special techniques and computer hardware is needed to build a deep learning algorithm.
+Neural Network,A popular type of machine learning approach that creates a web of nodes that feed data into each other. The result is usually a very complex process (network) that produces a result or prediction at the end much like a brain would send information though its network and make a decision.
+Unsupervised Learning,"Any type of machine learning approach that does not require the data to be ""labeled"" or given the ""right"" answer in order to mimic the results. Unsupervised learning creates its own clusters or patterns without needing a human to pre-label or prepare the data."
+Reproducible Research,A movement across all fields where quantitative research is done and there is a need to re-create the work to update or validate its results. Science that is reprodicible is thought to more rapidly spur innovation.
+Data Science,"The intersection of computer science, statistics, and domain knowledge. Data Scientists create ""data products"" that make data useful and easy to use in decision making."
+NLP (Natural Language Processing),"A domain of machine learning that focuses on text analytics. It concerns itself with using text to classify, cluster, search, or extract information from text. It is even used to produce speech or translate speech."
+P-Hacking,When a researcher relentlessly performs many statistical tests on a dataset and chooses the one which just happens to produce a p-value at the 0.05 level.
