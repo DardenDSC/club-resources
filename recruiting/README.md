@@ -1,5 +1,5 @@
 # Recruiting Resources
-A repository for company profiles](#company-profiles), 
+A repository for [company profiles](#company-profiles), 
 [interview prep material](#interview-prep), and more!
 
 ## Company Profiles
