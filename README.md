@@ -6,10 +6,10 @@ A repository to store presentations, recruiting materials, articles, and other r
  - [Decision Analysis Prep](https://rawgit.com/DardenDSC/club-resources/master/presentations/decision-analysis-prep/decision-analysis-prep.pdf)
  - Intro to Git & GitHub (Coming Soon!)
 
-## Sample Scripts
+## Tutorials/Scripts
 
  - [Intro to R programming](https://github.com/DardenDSC/intro-to-r-programming#intro-to-r-programming)
- - Intro to Python programming (Coming Soon!)
+ - [Intro to Python programming](https://github.com/DardenDSC/intro-to-python-programming#intro-to-python-programming)
  - Intro to SQL programming (Coming Soon!)
  - [Sarah Gets a Diamond](https://github.com/DardenDSC/sarah-gets-a-diamond#sarah-gets-a-diamond)
  
