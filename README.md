@@ -13,6 +13,10 @@ A repository to store presentations, recruiting materials, articles, and other r
  - Intro to SQL programming (Coming Soon!)
  - [Sarah Gets a Diamond](https://github.com/DardenDSC/sarah-gets-a-diamond#sarah-gets-a-diamond-)
  
+## Recruiting
+
+ - [Company Profiles](https://github.com/DardenDSC/club-resources/tree/master/recruiting#company-profiles)
+ 
 ## Articles
 
  - [Data Science Buzzwords](https://github.com/DardenDSC/club-resources/blob/master/admin/data-sci-buzzwords.csv)
