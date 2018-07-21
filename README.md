@@ -11,7 +11,7 @@ A repository to store presentations, recruiting materials, articles, and other r
  - [Intro to R programming](https://github.com/DardenDSC/intro-to-r-programming#intro-to-r-programming)
  - Intro to Python programming (Coming Soon!)
  - Intro to SQL programming (Coming Soon!)
- - [Sarah Gets a Diamond](https://github.com/DardenDSC/sarah-gets-a-diamond#sarah-gets-a-diamond-)
+ - [Sarah Gets a Diamond](https://github.com/DardenDSC/sarah-gets-a-diamond#sarah-gets-a-diamond)
  
 ## Recruiting
 
