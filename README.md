@@ -1,5 +1,14 @@
 # Club Resources
-A repository to store presentations, recruiting materials, articles, and other resources for the club
+A repository to share events, presentations, recruiting materials, articles, and other resources for the club
+
+## 2018-2019 Schedule of Events
+
+Date | Event | Description
+---|---|---------
+Mid-August | Club Fair | Booth to sign up for the club.
+Mid-August | Decision Analysis Prep | A presentation teaching you the topics covered in the First Year DA course, which includes: statistics, hypothesis testing, regression, and decision trees 
+Mid-September | Intro to R Programming | A step-by-step walkthrough of running an R script to do analysis. We will cover installing R and RStudio along with the `tidyverse` R package and mantra behind data science with R 
+Late-September | Meet & Greet with UVA Data Science Institute | An evening of food and drinks to connect with students in the UVA Masters of Data Science program at DSI.
 
 ## Presentations
 
