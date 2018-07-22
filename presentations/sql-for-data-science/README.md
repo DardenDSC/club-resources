@@ -22,7 +22,7 @@ recommend using the DBeaver SQL Client.
 
 #### Installing DBeaver
 You can install DBeaver Community Edition by going to http://dbeaver.jkiss.org/download/. You should see 
-the options to download for Windows, Mac and Linux. Follow the command prompts on your 
+options to download for Windows, Mac and Linux. Follow the command prompts on your 
 screen just like you would install any other software.
 
 #### Importing the DBeaver Profile
@@ -30,8 +30,8 @@ After installing DBeaver, download a preconfigured DBeaver Profile [here](https:
 and follow these steps: 
 
 1. Open up `DBeaver -> File -> Import`
-2. Select “Project” as the file type you’d like to import and click "Next"
-3. Select the .dbp file that you downloaded. Ensure that “Import driver libraries” is checked and 
+2. Select `“Project”` as the file type you would like to import and click `"Next"`
+3. Select the `.dbp` file that you downloaded. Ensure that `“Import driver libraries”` is checked and 
 
 Step 1     |  Step 2       | Step 3
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -41,9 +41,9 @@ Further installation instructions are provided on Slides 7-11 of the deck.
 
 #### Running a Query
 
-Once the profile is loaded you should see "SQL4DS" in the Projects pane on the left-hand 
-side of the application. If you do not see a “Projects” tab, go to `“Window” -> “Projects”`. 
-If you click on arrow to expand the “SQL Scripts” you will see pre-written scripts that 
+Once the profile is loaded you should see `"SQL4DS"` in the Projects pane on the left-hand 
+side of the application. If you do not see a `“Projects”` tab, go to `“Window” -> “Projects”`. 
+If you click on arrow to expand the `“SQL Scripts”` you will see pre-written scripts that 
 perform different queries that are covered in the presentation. This is so you don't 
 have to type them yourself. If you'd like to run one of them, double-click to open, and 
 press `CRTL+ENTER`. The results should display in a table underneath the script.
@@ -69,7 +69,7 @@ productid | integer (primary key)
 name | text
 productnumber | text
 makeflag | integer
-finishedgoodsflag
+finishedgoodsflag | integer
 color | text
 safetystocklevel | float
 reorderpoint | float

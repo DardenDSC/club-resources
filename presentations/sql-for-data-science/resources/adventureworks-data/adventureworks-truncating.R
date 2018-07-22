@@ -34,7 +34,7 @@ product <- read_tsv('./presentations/sql-for-data-science/resources/adventurewor
                                 ,'ModifiedDate')
                     )
 product <- product %>% 
-  mutate_at(c('ProductID','MakeFlag', 
+  mutate_at(c('ProductID','MakeFlag', 'FinishedGoodsFlag',
               'ProductSubcategoryID','ProductModelID'), as.integer) %>%
   rename_all(tolower) %>% 
   mutate(discontinueddate = as_datetime(discontinueddate)) %>%
