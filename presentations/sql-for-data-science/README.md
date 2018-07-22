@@ -35,7 +35,7 @@ and follow these steps:
 
 Step 1     |  Step 2       | Step 3
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="./resources/dbeaver-profile-import-1.png" width="220px" />  |  <img src="./resources/dbeaver-profile-import-2.png" width="220px" />   | <img src="./resources/dbeaver-profile-import-3.png" width="220px" />
+<img src="./resources/dbeaver-profile-import-1.png" width="240px" />  |  <img src="./resources/dbeaver-profile-import-2.png" width="240px" />   | <img src="./resources/dbeaver-profile-import-3.png" width="240px" />
 
 Further installation instructions are provided on Slides 7-11 of the deck.
 
