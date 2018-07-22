@@ -3,8 +3,8 @@ A repository to store presentations, recruiting materials, articles, and other r
 
 ## Presentations
 
- - [Decision Analysis Prep](https://rawgit.com/DardenDSC/club-resources/master/presentations/decision-analysis-prep/decision-analysis-prep.pdf)
- - [SQL for Data Science](https://cdn.rawgit.com/DardenDSC/club-resources/presentations/sql-for-data-science/sql-for-data-science.pdf)
+ - [Decision Analysis Prep](https://cdn.rawgit.com/DardenDSC/club-resources/master/presentations/decision-analysis-prep/decision-analysis-prep.pdf)
+ - [SQL for Data Science](https://cdn.rawgit.com/DardenDSC/club-resources/master/presentations/sql-for-data-science/sql-for-data-science.pdf)
  - Intro to Git & GitHub (Coming Soon!)
 
 ## Tutorials/Scripts
