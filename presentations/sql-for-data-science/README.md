@@ -33,11 +33,9 @@ and follow these steps:
 2. Select “Project” as the file type you’d like to import and click "Next"
 3. Select the .dbp file that you downloaded. Ensure that “Import driver libraries” is checked and 
 
-Screenshots: 
-
 Step 1     |  Step 2       | Step 3
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="./resources/dbeaver-profile-import-1.png" width="110px" />  |  <img src="./resources/dbeaver-profile-import-2.png" width="110px" />   | <img src="./resources/dbeaver-profile-import-3.png" width="110px" />
+<img src="./resources/dbeaver-profile-import-1.png" width="220px" />  |  <img src="./resources/dbeaver-profile-import-2.png" width="220px" />   | <img src="./resources/dbeaver-profile-import-3.png" width="2200px" />
 
 Further installation instructions are provided on Slides 7-11 of the deck.
 
