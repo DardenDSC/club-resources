@@ -21,8 +21,8 @@ software that allows you to connect to the database and run queries against it. 
 recommend using the DBeaver SQL Client. 
 
 #### Installing DBeaver
-You can install DBeaver by going to http://dbeaver.jkiss.org/download/. You should see 
-the options to download for Linux, Mac, or Windows. Follow the command prompts on your 
+You can install DBeaver Community Edition by going to http://dbeaver.jkiss.org/download/. You should see 
+the options to download for Windows, Mac and Linux. Follow the command prompts on your 
 screen just like you would install any other software.
 
 #### Importing the DBeaver Profile
@@ -35,7 +35,7 @@ and follow these steps:
 
 Step 1     |  Step 2       | Step 3
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="./resources/dbeaver-profile-import-1.png" width="240px" />  |  <img src="./resources/dbeaver-profile-import-2.png" width="240px" />   | <img src="./resources/dbeaver-profile-import-3.png" width="240px" />
+<img src="./resources/dbeaver-profile-import-1.png" width="250px" />  |  <img src="./resources/dbeaver-profile-import-2.png" width="250px" />   | <img src="./resources/dbeaver-profile-import-3.png" width="250px" />
 
 Further installation instructions are provided on Slides 7-11 of the deck.
 
