@@ -1,6 +1,6 @@
 # SQL for Data Science<img src="./resources/sql-for-data-science.png" width="220px" align="right" />
 A repository of containing a [PowerPoint presentation](https://cdn.rawgit.com/DardenDSC/club-resources/master/presentations/sql-for-data-science/sql-for-data-science.pdf) 
-covering the basics of using SQL queries to perform data science tasks. A [DBeaver Profile](https://cdn.rawgit.com/DardenDSC/club-resources/master/presentations/sql-for-data-science/DBeaver%20Profile.dbp) 
+covering the basics of using SQL queries to perform data science tasks. A [DBeaver Profile](https://github.com/DardenDSC/club-resources/blob/master/presentations/sql-for-data-science/SQL4DS%20Project.dbp?raw=true) 
 is provided so that users do not need to type in the credentials and can get a catalog 
 of pre-written queries to get started quickly. The data we are analyzing is the 
 AdventureWorks dataset. A dataset of a ficticious bicycle manufacturer provided by Microsoft.
@@ -26,7 +26,7 @@ options to download for Windows, Mac and Linux. Follow the command prompts on yo
 screen just like you would install any other software.
 
 #### Importing the DBeaver Profile
-After installing DBeaver, download a preconfigured DBeaver Profile [here](https://cdn.rawgit.com/DardenDSC/club-resources/presentations/sql-for-data-science/DBeaver%20Profile.dbp) 
+After installing DBeaver, download a preconfigured DBeaver Profile [here](https://github.com/DardenDSC/club-resources/blob/master/presentations/sql-for-data-science/SQL4DS%20Project.dbp?raw=true) 
 and follow these steps: 
 
 1. Open up `DBeaver -> File -> Import`
