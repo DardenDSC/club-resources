@@ -3,15 +3,16 @@ A repository to share events, presentations, recruiting materials, articles, and
 
 ## 2018-2019 Schedule of Events
 
-Date | Time | Event | Description
----|---|---|---------
-8/22 | 6pm-7pm | Club Fair | Sign up to join the Data Science Club!
-8/27 | 3pm-4pm | Data Science Industry Panel | Four second-year panelists will share their summer internship experiences applying data science in the real world.
-8/29? | TBD | Decision Analysis Prep | A presentation teaching you the topics covered in the First Year DA course, which includes: statistics, hypothesis testing, regression, and decision trees 
-9/4 | TBD | Meet & Greet with UVA Data Science Institute | Grab food and drinks while connecting with students in the UVA Masters of Data Science program at the Data Science Institute.
-TBD | TBD | Intro to R Programming | A step-by-step walkthrough of running an R script to do analysis. We will cover installing R and RStudio along with the `tidyverse` R package and mantra behind data science with R 
+Date | Time | Location | Event | Description
+---|---|---|---|---------
+8/22 | 6pm-7pm | Saunders Hall | Club Fair | Sign up to join the Data Science Club!
+8/27 | 3pm-4pm | CL 120 | Data Science Industry Panel | Four second-year panelists will share their summer internship experiences applying data science in the real world.
+9/4 | 5pm-8pm | Dell 1 (Main Grounds) | Meet & Greet with UVA Data Science Institute | Grab food and drinks while connecting with students in the UVA Masters of Data Science program at the Data Science Institute.
+10/17 | 5pm-7pm | CL 190 | Saul Yeaton & Luke Macfarlan of Metis Machine | Machine learning experts from local startup Metis Machine have been invited to talk about how Metis approaches data science.
+10/22 | 5pm-7pm | CL 120 | SQL for Data Science | An overview of how to write SQL and work with a transactional database with a focus on analytic methods that are data science-ish.
+January 2019 | TBD | Decision Analysis Prep | A presentation teaching you the topics covered in the second-half of the First Year DA course, which includes: statistics, hypothesis testing, and regression.
+February 2019 | TBD | Intro to R Programming | A step-by-step walkthrough of running an R script to do analysis. We will cover installing R and RStudio along with the `tidyverse` R package and mantra behind data science with R 
 TBD | TBD | Intro to Python Programming | A step-by-step walkthrough of running a Python script to do analysis. 
-TBD | TBD | SQL for Data Science | An overview of how to write SQL and work with a transactional database with a focus on analytic methods that are data science-ish.
 
 ## Presentations
 
