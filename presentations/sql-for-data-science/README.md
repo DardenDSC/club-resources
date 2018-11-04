@@ -1,5 +1,5 @@
 # SQL for Data Science<img src="./resources/sql-for-data-science.png" width="220px" align="right" />
-A repository of containing a [PowerPoint presentation](https://gitcdn.link/cdn/DardenDSC/club-resources/770a4e7720c191bd0d1a721ed48c8fa04748e069/presentations/sql-for-data-science/sql-for-data-science.pdf)
+A repository of containing a [PowerPoint presentation](https://gitcdn.link/cdn/DardenDSC/club-resources/40d3ef0c539be563b69f35916a968eae09fc2b76/presentations/sql-for-data-science/sql-for-data-science.pdf)
 covering the basics of using SQL queries to perform data science tasks. A [DBeaver Profile](https://github.com/DardenDSC/club-resources/blob/master/presentations/sql-for-data-science/SQL4DS%20Project.dbp?raw=true) 
 is provided so that users do not need to type in the credentials and can get a catalog 
 of pre-written queries to get started quickly. The data we are analyzing is the 

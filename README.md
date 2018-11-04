@@ -16,7 +16,7 @@ TBD | TBD | TBD | Intro to Python Programming | A step-by-step walkthrough of ru
 
 ## Presentations
 
- - [SQL for Data Science](https://gitcdn.link/cdn/DardenDSC/club-resources/770a4e7720c191bd0d1a721ed48c8fa04748e069/presentations/sql-for-data-science/sql-for-data-science.pdf)
+ - [SQL for Data Science](https://gitcdn.link/cdn/DardenDSC/club-resources/40d3ef0c539be563b69f35916a968eae09fc2b76/presentations/sql-for-data-science/sql-for-data-science.pdf)
  - [Decision Analysis Prep](https://gitcdn.link/repo/DardenDSC/club-resources/master/presentations/decision-analysis-prep/decision-analysis-prep.pdf)
  - Intro to Git & GitHub (Coming Soon!)
 
