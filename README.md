@@ -10,9 +10,9 @@ Date | Time | Location | Event | Description
 9/4 | 5pm-8pm | Dell 1 (Main Grounds) | Meet & Greet with UVA Data Science Institute | Grab food and drinks while connecting with students in the UVA Masters of Data Science program at the Data Science Institute.
 10/17 | 5pm-7pm | CL 190 | Saul Yeaton & Luke Macfarlan of Metis Machine | Machine learning experts from local startup Metis Machine have been invited to talk about how Metis approaches data science.
 10/22 | 5pm-7pm | CL 120 | SQL for Data Science | An overview of how to write SQL and work with a transactional database with a focus on analytic methods that are data science-ish.
-January 2019 | TBD | TBD  | Decision Analysis Prep | A presentation teaching you the topics covered in the second-half of the First Year DA course, which includes: statistics, hypothesis testing, and regression.
-February 2019 | TBD  | TBD | Intro to R Programming | A step-by-step walkthrough of running an R script to do analysis. We will cover installing R and RStudio along with the `tidyverse` R package and mantra behind data science with R 
-TBD | TBD | TBD | Intro to Python Programming | A step-by-step walkthrough of running a Python script to do analysis. 
+02/11 | 5:30PM-7PM | CL 170  | Solutions in Regression | An introduction to R and statistical programming using a Darden case framework
+Week of 02/18 | TBD  | TBD | DA Tutoring | Catch up on things you've missed in DA before the end of the quarter rush.
+04/16 | TBD | TBD | Speaker Event | Join us for a speaker event on the intersection of data science and business. 
 
 ## Presentations
 
