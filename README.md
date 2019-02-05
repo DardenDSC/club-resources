@@ -22,6 +22,7 @@ Week of 02/18 | TBD  | TBD | DA Tutoring | Catch up on things you've missed in D
 
 ## Tutorials/Scripts
 
+ - [Solutions in Regression (2/11 DA case on regression basics)](https://github.com/DardenDSC/solutions-in-regression#solutions-in-regression)
  - [Intro to R programming](https://github.com/DardenDSC/intro-to-r-programming#intro-to-r-programming)
  - [Intro to Python programming](https://github.com/DardenDSC/intro-to-python-programming#intro-to-python-programming)
  - [Sarah Gets a Diamond](https://github.com/DardenDSC/sarah-gets-a-diamond#sarah-gets-a-diamond)

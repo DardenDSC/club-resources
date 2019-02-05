@@ -16,16 +16,22 @@ have consultants with deeper data science knowledge and change management. It is
 integrated within projects such that the typically staffing would be a Data Scientist, 
 Data Engineer, Generalist Consultant, and Software Developer.
 
-**Interview Timeline & Roles**: Consultant (Applications accepted July - Oct. 7)
+**Interview Timeline & Roles**: "Specialist" (Applications: Open July - Oct. 7; Decisions: Rolling (mid-December))
 
 **Interview Process**: 
 
-1. Hacker Rank Test (Python + SQL) 
-2. PEI Interview (informational/behavioral interview) with Recruiter
-3. Virtual Case Interview (typical generalist consulting case)
-4. Technical Data Science Interview (on-site)
+1. Have a call with a recruiter to assess fit and skills 
+2. Complete a data science test (R + Python + General Statistics) 
+3. Virtual Technical Interview (1 hour w/ Analytics teammember, typically an "Expert" (Engagement Manager-level))
+4. Virtual or On-site Technical Interviews (4, 45-minute interviews with at least 2 partners)
 
-**Office Locations**: 5 "hub"" cities - 
+The final round technical interviews comprise of a "verbal" model building session. 
+The interviewer will provide some detail on a client engagement and you will have 
+to describe to them how you would approach the problem, including technical detail 
+on the technical methods you choose and why. There may also be one interview that 
+is more like a typical business consulting case.
+
+**Office Locations**: 5 "hub"" cities -  
 
  1. Waltham, MA
  2. New York, NY
@@ -44,22 +50,36 @@ the origin of the title. See [this article](https://www.mckinsey.com/careers/mee
  - 4tree - big data analytics firm for retail and FMCG
  - VisualDoD - defense analytics tool
  - Veryday - a design/innovation consultancy 
- - Lunar
 
-### BCG Gamma
+### BCG GAMMA
 
-**Overview**: 
+**Overview**: A special resource within GAMMA born from a need expressed by clients to 
+have consultants with deeper data science knowledge and change management. It is 
+integrated within projects such that the typically staffing would be a Data Scientist, 
+Data Engineer, Generalist Consultant, and Software Developer. 
 
-**Interview Timeline & Roles**: Consultant (Applications accepted mm/dd - mm/dd)
+**Interview Timeline & Roles**: Senior Data Consultant (Applications: Early October; Decisions Mid December)
 
 **Interview Process**: 
 
-1. 
-2. 
-3. 
-4.
+1. Have a call with a recruiter to assess fit and skills 
+2. Complete a Hacker Rank Test (Python + SQL) 
+3. Virtual Technical Case Interview (45 minutes w/ GAMMA teammember)
+4. Virtual Business Case Interview (45 minutes w/ BCG Consultant)
+5. Technical Interviews (2 or 3 45 minute interviews on-site)
 
-**Office Location**: Boston, MA; 
+The final round technical interviews comprise of a "verbal" model building session. 
+The interviewer will provide some detail on a client engagement and you will have 
+to describe to them how you would approach the problem, including technical detail 
+on the technical methods you choose and why.
+
+**Office Locations**: 4 North American "hub"" cities - 
+
+ 1. Boston, MA
+ 2. Chicago, IL
+ 3. Los Angeles, CA
+ 4. Toronto, ON
+
 **Darden Contact**: Lisa Akin
 
 ### Bridgewater Associates
@@ -96,6 +116,7 @@ the origin of the title. See [this article](https://www.mckinsey.com/careers/mee
 
 ## Interview Prep
 
+[ANSWERS TO THE DATA SCIENCE BRAIN TEASERS HERE]
  
 ## Contact
 If you have any comments, questions, or suggestions for the club please contact 
