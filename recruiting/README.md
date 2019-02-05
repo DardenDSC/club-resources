@@ -23,7 +23,8 @@ A repository for [company profiles](#company-profiles),
 
 **Interview Timeline**: 
 
-Applications Open: July - Oct. 7
+Applications Open: July - Oct. 7  
+
 Decisions: Rolling (mid-December)
 
 **Interview Process**: 
@@ -67,7 +68,8 @@ focus on before applying.
 
 **Interview Timeline**: 
 
-Applications Open: Early October
+Applications Open: Early October  
+
 Decisions: Mid December
 
 **Interview Process**: 
@@ -100,7 +102,9 @@ team.
 **Office Location**: Westport, CT 
 
 **Interview Timeline**: 
-Applications Open: ??
+
+Applications Open: ??  
+
 Decisions: ??
 
 **Interview Process**: 
@@ -120,8 +124,10 @@ Decisions: ??
 
 **Office Location**: Richmond, VA
 
-**Interview Timeline**: 
-Applications Open: ??
+**Interview Timeline**:
+
+Applications Open: ??  
+
 Decisions: ??
 
 **Interview Process**: 
