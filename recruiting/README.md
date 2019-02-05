@@ -5,18 +5,26 @@ A repository for [company profiles](#company-profiles),
 ## Company Profiles
 
  - [McKinsey Analytics](#mckinsey-analytics)
- - [BCG Gamma](#bcg-gamma)
+ - [BCG GAMMA](#bcg-gamma)
  - [Bridgewater Associates](#bridgewater-associates)
  - [Capital One](#capital-one)
 
 ### McKinsey Analytics
 
-**Overview**: A functional group within McKinsey born from a need expressed by clients to 
-have consultants with deeper data science knowledge and change management. It is 
-integrated within projects such that the typically staffing would be a Data Scientist, 
-Data Engineer, Generalist Consultant, and Software Developer.
+**Role**: `Specialist` (Analogous to Generalist Associate Level)
 
-**Interview Timeline & Roles**: "Specialist" (Applications: Open July - Oct. 7; Decisions: Rolling (mid-December))
+**Office Locations**: 5 "hub" cities -  
+
+ 1. Waltham, MA
+ 2. New York, NY
+ 3. Chicago, IL
+ 4. San Jose, CA
+ 5. Washington, DC (Public Sector)
+
+**Interview Timeline**: 
+
+Applications Open: July - Oct. 7
+Decisions: Rolling (mid-December)
 
 **Interview Process**: 
 
@@ -30,35 +38,37 @@ The interviewer will provide some detail on a client engagement and you will hav
 to describe to them how you would approach the problem, including technical detail 
 on the technical methods you choose and why. There may also be one interview that 
 is more like a typical business consulting case.
-
-**Office Locations**: 5 "hub"" cities -  
-
- 1. Waltham, MA
- 2. New York, NY
- 3. Chicago, IL
- 4. San Jose, CA
- 5. Washington, DC (Public Sector)
  
 **Darden Contact**: Andie Dobbelaere, Jamie Carroll, Jen Guracech
 
 **Additional Info**: Recently introduced the concept of an "Analytics Translator". See [this article](https://www.mckinsey.com/about-us/new-at-mckinsey-blog/the-new-analytics-translator-from-big-data-to-big-ideas) on 
-the origin of the title. See [this article](https://www.mckinsey.com/careers/meet-our-people/careers-blog/andrea) on an analyst that lateraled into the Analytics Translator role.
+the origin of the title. See [this article](https://www.mckinsey.com/careers/meet-our-people/careers-blog/andrea) on 
+an analyst that lateraled into the Analytics Translator role. McKinsey Analytics 
+is a functional group within McKinsey born from a need expressed by clients to 
+have consultants with deeper data science knowledge and change management. It is 
+integrated within projects such that the typically staffing would be a Data Scientist, 
+Data Engineer, Generalist Consultant, and Software Developer. McKinsey Analytics is 
+actually a number of even more specialized teams (Journey Analytics, Healthcare Analytics 
+and Delivery, Public Sector, etc.) so you should know which are you are going to 
+focus on before applying.
 
-**Analytics/Tech Acquisitions**: 
-
- - QuantumBlack
- - 4tree - big data analytics firm for retail and FMCG
- - VisualDoD - defense analytics tool
- - Veryday - a design/innovation consultancy 
+---  
 
 ### BCG GAMMA
 
-**Overview**: A special resource within GAMMA born from a need expressed by clients to 
-have consultants with deeper data science knowledge and change management. It is 
-integrated within projects such that the typically staffing would be a Data Scientist, 
-Data Engineer, Generalist Consultant, and Software Developer. 
+**Role**: `Senior Data Scientist` (Analogous to Generalist Consultant Level)
 
-**Interview Timeline & Roles**: Senior Data Consultant (Applications: Early October; Decisions Mid December)
+**Office Locations**: 4 North American "hub"" cities - 
+
+ 1. Boston, MA
+ 2. Chicago, IL
+ 3. Los Angeles, CA
+ 4. Toronto, ON
+
+**Interview Timeline**: 
+
+Applications Open: Early October
+Decisions: Mid December
 
 **Interview Process**: 
 
@@ -73,20 +83,25 @@ The interviewer will provide some detail on a client engagement and you will hav
 to describe to them how you would approach the problem, including technical detail 
 on the technical methods you choose and why.
 
-**Office Locations**: 4 North American "hub"" cities - 
-
- 1. Boston, MA
- 2. Chicago, IL
- 3. Los Angeles, CA
- 4. Toronto, ON
-
 **Darden Contact**: Lisa Akin
+
+**Additional Info**: GAMMA consultants are a special resource within BCG born from 
+a need expressed by clients to have consultants with deeper data science knowledge 
+and change management. Sometimes a team entirely from GAMMA are staffed on a project 
+or only one GAMMA resource will be staffed on a project with a generalist consultant 
+team.
+
+---  
 
 ### Bridgewater Associates
 
-**Overview**: 
+**Role**: `Data Scientist`
 
-**Interview Timeline & Roles**: Data Scientist (Applications accepted mm/dd - mm/dd)
+**Office Location**: Westport, CT 
+
+**Interview Timeline**: 
+Applications Open: ??
+Decisions: ??
 
 **Interview Process**: 
 
@@ -95,14 +110,19 @@ on the technical methods you choose and why.
 3. 
 4.
 
-**Office Location**: Westport, CT 
 **Darden Contact**: ?????
+
+---  
 
 ### Capital One
 
-**Overview**: 
+**Role**: `Data Scientist`
 
-**Interview Timeline & Roles**: (Applications accepted mm/dd - mm/dd)
+**Office Location**: Richmond, VA
+
+**Interview Timeline**: 
+Applications Open: ??
+Decisions: ??
 
 **Interview Process**: 
 
@@ -111,12 +131,18 @@ on the technical methods you choose and why.
 3. 
 4.
 
-**Office Location**: Richmond, VA
-**Darden Contact**: ?????
+**Darden Contact**: ??
 
 ## Interview Prep
 
-[ANSWERS TO THE DATA SCIENCE BRAIN TEASERS HERE]
+Subscribe to [https://www.interviewqs.com](https://www.interviewqs.com) for 3 questions 
+each week. These are a fairly good sample of brain teasers and general knowledge that 
+will be tested throughout the interview process. 
+
+There is an article called [20 Questions to Detect Fake Data Scientists](https://www.kdnuggets.com/2016/01/20-questions-to-detect-fake-data-scientists.html). It is 
+worth taking a look so that you do not get tripped up by not knowing the answer to 
+one of these questions. Hopefully they spur some more in-depth research on the 
+topics if they are unfamiliar to you.
  
 ## Contact
 If you have any comments, questions, or suggestions for the club please contact 
