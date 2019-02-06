@@ -6,6 +6,7 @@ A repository for [company profiles](#company-profiles),
 
  - [McKinsey Analytics](#mckinsey-analytics)
  - [BCG GAMMA](#bcg-gamma)
+ - [Other Consulting Firms](#other-consulting-firms) 
  - [Bridgewater Associates](#bridgewater-associates)
  - [Capital One](#capital-one)
 
@@ -92,6 +93,14 @@ a need expressed by clients to have consultants with deeper data science knowled
 and change management. Sometimes a team entirely from GAMMA are staffed on a project 
 or only one GAMMA resource will be staffed on a project with a generalist consultant 
 team.
+
+---  
+
+### Other Consulting Firms
+
+There are a number of other consulting companies which have data science teams. 
+This includes Bain (AAG - Advanced Analytics Group), Olver Wyman (OW Labs), and 
+L.E.K. consulting. 
 
 ---  
 
