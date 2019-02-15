@@ -5,14 +5,14 @@ A repository to share events, presentations, recruiting materials, articles, and
 
 Date | Time | Location | Event | Description
 ---|---|---|---|---------
-8/22 | 6pm-7pm | Saunders Hall | Club Fair | Sign up to join the Data Science Club!
-8/27 | 3pm-4pm | CL 120 | Data Science Industry Panel | Four second-year panelists will share their summer internship experiences applying data science in the real world.
-9/4 | 5pm-8pm | Dell 1 (Main Grounds) | Meet & Greet with UVA Data Science Institute | Grab food and drinks while connecting with students in the UVA Masters of Data Science program at the Data Science Institute.
-10/17 | 5pm-7pm | CL 190 | Saul Yeaton & Luke Macfarlan of Metis Machine | Machine learning experts from local startup Metis Machine have been invited to talk about how Metis approaches data science.
-10/22 | 5pm-7pm | CL 120 | SQL for Data Science | An overview of how to write SQL and work with a transactional database with a focus on analytic methods that are data science-ish.
-02/11 | 5:30PM-7PM | CL 170  | Solutions in Regression | An introduction to R and statistical programming using a Darden case framework
-Week of 02/18 | TBD  | TBD | DA Tutoring | Catch up on things you've missed in DA before the end of the quarter rush.
-04/16 | TBD | TBD | Speaker Event | Join us for a speaker event on the intersection of data science and business. 
+Aug 22 | 6:00pm-7:00pm | Saunders Hall | Club Fair | Sign up to join the Data Science Club!
+Aug 27 | 3:00pm-4:00pm | CL 120 | Data Science Industry Panel | Four second-year panelists will share their summer internship experiences applying data science in the real world.
+Sep 4 | 5:00pm-8:00pm | Dell 1 (Main Grounds) | Meet & Greet with UVA Data Science Institute | Grab food and drinks while connecting with students in the UVA Masters of Data Science program at the Data Science Institute.
+Oct 17 | 5:00pm-7:00pm | CL 190 | Saul Yeaton & Luke Macfarlan of Metis Machine | Machine learning experts from local startup Metis Machine have been invited to talk about how Metis approaches data science.
+Oct 22 | 5:00pm-7:00pm | CL 120 | SQL for Data Science | An overview of how to write SQL and work with a transactional database with a focus on analytic methods that are data science-ish.
+Feb 11 | 5:30pm-7:00pm | CL 170  | Solutions in Regression | An introduction to R and statistical programming using a Darden case framework
+Feb 20 | 1:30pm-2:30pm  | CL 120 | DA Tutoring | Review concepts from Q3 DA class with experts from the Data Science club
+Apr 16 | TBD | TBD | Speaker Event | Join us for a speaker event on the intersection of data science and business. 
 
 ## Presentations
 
