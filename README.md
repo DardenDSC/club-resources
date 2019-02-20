@@ -18,6 +18,8 @@ Apr 16 | TBD | TBD | Speaker Event | Join us for a speaker event on the intersec
 
  - [SQL for Data Science](https://gitcdn.link/cdn/DardenDSC/club-resources/40d3ef0c539be563b69f35916a968eae09fc2b76/presentations/sql-for-data-science/sql-for-data-science.pdf)
  - [Decision Analysis Prep](https://gitcdn.link/repo/DardenDSC/club-resources/master/presentations/decision-analysis-prep/decision-analysis-prep.pdf)
+ - [Decision Analysis Review](presentations/decision-analysis-review) 
+ - Intro to Business Intelligence Tools using Power BI (Coming Soon!)
  - Intro to Git & GitHub (Coming Soon!)
 
 ## Tutorials/Scripts
@@ -36,5 +38,6 @@ Apr 16 | TBD | TBD | Speaker Event | Join us for a speaker event on the intersec
  - [Data Science Buzzwords](https://github.com/DardenDSC/club-resources/blob/master/admin/data-sci-buzzwords.csv)
  
 ## Contact
+
 If you have any comments, questions, or suggestions for the club please contact 
 us at: DardenDSC@darden.virginia.edu
