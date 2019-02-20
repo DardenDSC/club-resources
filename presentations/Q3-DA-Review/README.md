@@ -1,4 +1,4 @@
-# Q3 DA Review<img src="review-screenshot.png" width="300px" align="right" />
+# Q3 DA Review<img src="review-screenshot.png" width="330px" align="right" />
 This folder repository contains one [Excel spreadsheet](<DA Review - Data Science Club.xlsx>) 
 for download that is used to teach a review session on the following concepts: 
 
@@ -11,8 +11,8 @@ for download that is used to teach a review session on the following concepts:
 The Excel file has one sheet for each of the 3 concepts mentioned above. There 
 are 3 additional sheets that have the breakdown and analysis of a regression model 
 built for the regression problem. Walk through each of the examples and make sure to 
-emphasize that the **yellow highlighted cells** denote samples of answers or conclusions 
-that would be important to include in an exam answer response.
+emphasize that the **yellow highlighted cells denote samples of answers or conclusions 
+that would be important to include in an exam answer response**.
 
 ## The DA Exams
 
