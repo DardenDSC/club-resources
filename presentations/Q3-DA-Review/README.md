@@ -1,5 +1,5 @@
 # Q3 DA Review
-This folder repository contains one [Excel spreadsheet](presentations/Q3-DA-Review/DA Review - Data Science Club.xlsx) 
+This folder repository contains one [Excel spreadsheet]("presentations/Q3-DA-Review/DA Review - Data Science Club.xlsx") 
 for download that is used to teach a review session on the following concepts: 
 
  1. Hypothesis Testing (one and two-tailed)
@@ -12,9 +12,9 @@ for download that is used to teach a review session on the following concepts:
 are 3 additional sheets that have the breakdown and analysis of a regression model 
 built for the regression problem. Walk through each of the examples and make sure to 
 emphasize that the <strong>yellow highlighted cells</strong> 
-<p style="width:10px;height:10px;display:inline-block;background-color:yellow;border:2px solid black;"></p> 
+<div style="width:10px;height:10px;display:inline-block;background-color:yellow;border:2px solid black;" /> 
 <strong>denote samples of answers or conclusions that 
-would be important to make on the exam</strong>.<p>
+would be important to make on the exam</strong>.</p>
 
 ## The DA Exams
 
