@@ -8,12 +8,11 @@ for download that is used to teach a review session on the following concepts:
 
 ## Overview
 
-<p>The Excel file has one sheet for each of the 3 concepts mentioned above. There 
+The Excel file has one sheet for each of the 3 concepts mentioned above. There 
 are 3 additional sheets that have the breakdown and analysis of a regression model 
 built for the regression problem. Walk through each of the examples and make sure to 
-emphasize that the <strong>yellow highlighted cells</strong> <p style="width:10px;height:10px;display:inline-block;background-color:yellow;border:2px solid black;" /> 
-<strong>denote samples of answers or conclusions that 
-would be important to make on the exam</strong>.</p>
+emphasize that the **yellow highlighted cells** denote samples of answers or conclusions 
+that would be important to include in an exam answer response.
 
 ## The DA Exams
 
