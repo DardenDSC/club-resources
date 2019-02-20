@@ -1,4 +1,4 @@
-# Q3 DA Review<img src="review-screenshot.png" width="120px" align="right" />
+# Q3 DA Review<img src="review-screenshot.png" width="220px" align="right" />
 This folder repository contains one [Excel spreadsheet](<DA Review - Data Science Club.xlsx>) 
 for download that is used to teach a review session on the following concepts: 
 
