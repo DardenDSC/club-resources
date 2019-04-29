@@ -40,4 +40,5 @@ Apr 16 | TBD | TBD | Speaker Event | Join us for a speaker event on the intersec
 ## Contact
 
 If you have any comments, questions, or suggestions for the club please contact 
-us at: DardenDSC@darden.virginia.edu
+us via email(DardenDSC@darden.virginia.edu) or Slack (https://dardendsc.slack.com). 
+You may sign up for Slack using this link: https://join.slack.com/t/dardendsc/signup
